@@ -5,14 +5,14 @@ draft: false
 ---
 
 Multiplicative Inverse Modulo
-: The multiplicative inverse of `x mod y` is a number `n ∈ Z+` such that `x * n mod y = 1`
+: The multiplicative inverse of $x \mod y$ is a number $n ∈ Z+$ such that $xn\mod y=1$
 
 ## Finding the Multiplicative Inverse Modulo:
 
-Given `x` & `y`, to find the multiplicative inverse, `n` of `x mod y` you must find:
-`x * n mod y = 1`
-or
-`x*n ≡ 1 (mod y)`
+Given $x$ & $y$, to find the multiplicative inverse, $n$ of $x mod y$ you must find:
+$$xn \mod y = 1$$
+$$or$$
+$$xn ≡ 1 (mod\ y)$$
 
 Substitute values of n to find congruence:
 
@@ -27,7 +27,7 @@ n = A4 is the multiplicative inverse
 #### Example:
 
 ```
-Find the multiplicative inverse of `13 mod 33`
+Find the multiplicative inverse of 13 mod 33
 From the following set of numbers:
 {2, 10, 18, 26, 4, 12, 20, 28}
 

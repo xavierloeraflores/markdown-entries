@@ -7,7 +7,8 @@ draft: false
 ## Congruence Modulo n
 
 Congruence Modulo N
-: Let `n ∈ Z+ > 1`. Let `x & y ∈ Z`. Then **x is congruent to y modulo n** if `x % n = y % n`. This congruence is denoted as `x≡y(mod n)`.
+Let $n ∈ Z+ > 1$. Let $(x, y) ∈ Z$. Then **x is congruent to y modulo n** if $x \% n = y \% n$. This congruence is denoted as: 
+$$x≡y(mod n)$$
 
 #### Example:
 
@@ -20,7 +21,9 @@ x = 20, y = 10, n = 5
 ```
 
 Alternate Congruence Characterization
-: Let `n ∈ Z > 1`. Let `x & y ∈ Z`. `x≡y(mod n)` if and only if `n |(x-y)`.
+: Let $n ∈ Z > 1$. Let $(x,y) ∈ Z$.
+$x≡y(mod n)$
+if and only if $n |(x-y)$
 
 #### Example:
 
@@ -39,7 +42,7 @@ x = 20, y = 10, n = 5
 Since a number that is raised to any positive integer power is simply a multiple of itself. There is no need to to find the solve the fully exponent number when solving for the modulo of that exponent number.
 
 Exponential Modulo Arithmetic
-: `x^y % n = ((x % n)^y) % n`
+: $x^y \% n = (x \% n)^y \% n$
 
 When applied in the the world of computer science, we are able to avoid errors caused by overflows when dealing with numbers raised to large powers. The number `13^170 mod 18` would surely result to a large number that would be inefficient to compute if we computed `13^170` before then taking the `mod 18` of that result. We can instead repeated apply `mod 18` to a product 170 times to keep the working set of integer values low.
 
@@ -55,12 +58,14 @@ Return p
 
 ### Modular Arithmetic Operations
 
-Let `n ∈ Z > 1`. Let `x & y ∈ Z`.
+Let $n ∈ Z > 1$. Let $(x, y) ∈ Z$, then:
 
-```
-[(x%n) + (y%n)]%n = [x+y]%n
-[(x%n) * (y%n)]%n = [x*y]%n
-```
+$$
+[x\%n + y\%n]\%n = [x+y]\%n
+$$
+$$
+[x\%n * y\%n]\%n = [x*y]\%n
+$$
 
 #### Example:
 

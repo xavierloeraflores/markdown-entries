@@ -20,10 +20,10 @@ Big Θ represents the average case or random case of a function. It gives us an 
 
 Given a function `f(n)`, `Ω` represents the lower bound of the function, `O` represents the upper bound, and `Θ` can represent the average case or any case:
 
-```
+$$
 Ω(f(n)) ≤ Θ(f(n)) ≤ O(f(n))
-```
+$$
 
-```
+$$
 Ω(n) <= Θ(n) <= O(n)
-```
+$$

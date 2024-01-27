@@ -7,19 +7,21 @@ draft: true
 ## Greatest Common Divisor
 
 GCD
-: The largest number `n ∈ Z+` that is a factor of both nonzero `x` & `y` such that both `n | x` & `n | y` are true.
+: The largest number $n ∈ Z+$ that is a factor of both nonzero $x$ & $y$ such that both $n | x$ & $n | y$ are true.
 
 Relatively Prime
-: Two numbers `x` and `y` are said to be **relatively prime** if and only if their GCD is 1. In other terms: `∄ n ∈ Z+ > 1` where both `n | x` and `n | y` are true.
+: Two numbers $x$ and $y$ are said to be **relatively prime** if and only if their GCD is 1. In other terms: 
+$$∄ n ∈ Z+ > 1$$
+where both $n | x$ and $n | y$ are true.
 
 ## Least Common Multiple
 
 LCM
-: The smallest number `n ∈ Z+` that is a multiple of both nonzero `x` & `y` such that both `x | n` & `y | n` are true.
+: The smallest number $n ∈ Z+$ that is a multiple of both nonzero $x$ & $y$ such that both $x | n$ & $y | n$ are true.
 
 ## GCD & LCM Prime Factorizations
 
-Let `x,y ∈ Z+` with prime factorizations that can be expressed using a common set of primes:
+Let $x,y ∈ Z+$ with prime factorizations that can be expressed using a common set of primes:
 
 ```
 x = P1^α1 * P2^α2 * P3^α3...+ Pr^αr

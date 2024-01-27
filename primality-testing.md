@@ -46,10 +46,10 @@ For k = 2, value of d is 2011.
 ## Primality Testing
 
 Primality Testing
-: Testing for values to prove whether a number `n` is prime.
+: Testing for values to prove whether a number $n$ is prime.
 
-Input: `n ∈ Z+ > 1`
-Output: Boolean output indicating if `n` is **Prime** or **Composite**
+Input: $n ∈ Z+ > 1$
+Output: Boolean output indicating if $n$ is **Prime** or **Composite**
 
 ### Brute Force Algorithm
 

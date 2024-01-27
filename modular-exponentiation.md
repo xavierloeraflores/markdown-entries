@@ -10,7 +10,7 @@ The trick to finding large exponentials is to break them down into smaller ones.
 
 ### Example:
 
-Given that `M^2 ≡ 51 (mod 59)`, what is `M^12 (mod 59)`?
+Given that $M^2 ≡ 51 (mod 59)$, what is $M^12 (mod 59)$?
 
 ```
 M^12 = M^(4+8)
