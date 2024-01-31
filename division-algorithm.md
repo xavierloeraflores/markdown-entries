@@ -23,8 +23,8 @@ To find the quotient of two integers, $n$ & $d$ use the following formula: `q = 
 $$q = n / d$$
 
 To find the remainder of two integers, $n$ & $d$ use the following formula:`r = n mod d`
-$$r = n \% d$$
-
+$$r = n \text{\%} d$$
+<!-- r = n % d -->
 
 ## The Division Algorithm
 For any two given two integers, there is a unique integer quotient and integer remainder that satisfies the following definition:
