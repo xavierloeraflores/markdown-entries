@@ -6,7 +6,7 @@ draft: false
 
 ## Big O
 
-Big O is used to to represent the general asymptotic growth of an algorithm. These algorithms are measured as a factor of `O(n)`. When representing a function in Big O, it is common to leave out any constant factors of `n` as well as any other constant atomic operations. A function that runs in `3n^2 + 5` will be represented as `O(n^2)`since we only care about the asymptotic growth of a function.
+Big O is used to to represent the general asymptotic growth of an algorithm. These algorithms are measured as a factor of `O(n)`. When representing a function in Big O, it is common to leave out any constant factors of `n` as well as any other constant atomic operations. A function that runs in $3n^2 + 5$ will be represented as $O(n^2)$ since we only care about the asymptotic growth of a function.
 
 ## Big Ω (Omega)
 
