@@ -15,4 +15,4 @@ They will be referenced in the markdown files as:
 ```
 
 ### Example: 
-![Xavier](/notes/images/xavier.jpg)
+![Xavier](/notes/attachments/images/xavier.jpg)

@@ -50,4 +50,4 @@ Therefore, there are infinitely many primes.
 #### Prime Number Total Approximation:
 The number of primes less than or equal to $x$ is approximately $x/ln(x)$.
 
-![Prime Numbers](/notes/images/prime-numbers.png)
+![Prime Numbers](/notes/attachments/images/prime-numbers.png)

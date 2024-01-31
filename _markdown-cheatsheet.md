@@ -93,13 +93,13 @@ Automatic URL Link: https://www.google.com
 Disabled URL Link: `https://www.google.com`
 
 Image:
-![Image](/notes/images/xavier.jpg)
+![Image](/notes/attachments/images/xavier.jpg)
 
 [Read More on Images](/notes/posts/_image)
 
 Linked Image:
 
-[![Linked Image](/notes/images/xavier.jpg)](/notes/posts/_image)
+[![Linked Image](/notes/attachments/images/xavier.jpg)](/notes/posts/_image)
 -----
 
 Table:
