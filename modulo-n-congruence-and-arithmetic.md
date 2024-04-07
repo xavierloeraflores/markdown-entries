@@ -7,7 +7,7 @@ draft: false
 ## Congruence Modulo n
 
 Congruence Modulo N
-Let $n ∈ Z+ > 1$. Let $(x, y) ∈ Z$. Then **x is congruent to y modulo n** if $x \text{\text{\%}} n = y \text{\text{\%}} n$. This congruence is denoted as: 
+Let $n ∈ Z+ > 1$. Let $(x, y) ∈ Z$. Then **x is congruent to y modulo n** if $x \text{\text{\%}} n = y \text{\text{\%}} n$. This congruence is denoted as:
 $$x≡y(mod n)$$
 
 #### Example:
@@ -43,6 +43,7 @@ Since a number that is raised to any positive integer power is simply a multiple
 
 Exponential Modulo Arithmetic
 : $x^y \text{\%} n = (x \text{\%} n)^y \text{\%} n$
+
 <!-- x^y % n = (x % n)^y % n -->
 
 When applied in the the world of computer science, we are able to avoid errors caused by overflows when dealing with numbers raised to large powers. The number `13^170 mod 18` would surely result to a large number that would be inefficient to compute if we computed `13^170` before then taking the `mod 18` of that result. We can instead repeated apply `mod 18` to a product 170 times to keep the working set of integer values low.
@@ -64,6 +65,7 @@ Let $n ∈ Z > 1$. Let $(x, y) ∈ Z$, then:
 $$
 [x\text{\text{\%}}n + y\text{\text{\%}}n]\text{\text{\%}}n = [x+y]\text{\text{\%}}n
 $$
+
 $$
 [x\text{\text{\%}}n * y\text{\text{\%}}n]\text{\text{\%}}n = [x*y]\text{\text{\%}}n
 $$
