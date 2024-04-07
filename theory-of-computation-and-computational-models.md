@@ -2,6 +2,19 @@
 title: "Theory of Computation & Computational Models"
 date: 2023-11-27T19:14:50-08:00
 draft: false
+tags:
+  [
+    "Computer Science",
+    "Theory of Computation",
+    "Automata Theory",
+    "Automaton",
+    "Computational Models",
+    "Finite State Machine",
+    "Pushdown Automaton",
+    "Linear Bounded Automaton",
+    "Turing Machine",
+    "Algorithms",
+  ]
 ---
 
 When solving problems in computer science, it can help to abstract the problem to gain a better understanding of what we can possibly achieve. This can especially be seen when analyzing algorithms since we usually care more about how algorithms would perform on abstract computers (machines) rather than specific hardware.

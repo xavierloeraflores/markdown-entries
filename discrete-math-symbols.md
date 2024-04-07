@@ -2,6 +2,7 @@
 title: "Discrete Math Symbols"
 date: 2023-11-20T08:22:25-08:00
 draft: false
+tags: ["Math", "Discrete Math", "Meta"]
 ---
 
 ### Discrete Math Symbols:

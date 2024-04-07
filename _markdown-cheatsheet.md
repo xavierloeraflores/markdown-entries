@@ -14,14 +14,13 @@ draft: true
 
 ##### Heading 5
 
-
------
+---
 
 Standard Text
 
 **Bold Text**
 
-*Italicized Text*
+_Italicized Text_
 
 ~~Strikethrough Text~~
 
@@ -31,12 +30,11 @@ Standard Text
 
 Footnoted Text[^1]
 
-
 Hidden Text:
 
-[Hidden Text]: # 
+[Hidden Text]: #
 
------
+---
 
 > ⚠️ **Warning:** This is a warning
 
@@ -44,21 +42,25 @@ Hidden Text:
 
 > 💡 **Tip:** This is a tooltip
 
------
+---
+
 List w/ Dash:
+
 - List Item 1
 - List Item 2
 
 List w/ Asterisk:
-* List Item w/ Asterisk 1
-* List Item w/ Asterisk 2
+
+- List Item w/ Asterisk 1
+- List Item w/ Asterisk 2
 
 Numbered List:
+
 1. Numbered List Item 1
 2. Numbered List Item 2
 
+---
 
------
 `Code`
 
 ```
@@ -69,21 +71,26 @@ c := a + b
 ```
 
 example.go:
+
 ```go
 #code block with language support
 a := 1
 b := 2
 c := a + b
 ```
------
->Quote
 
->Multiline Quote: This is an example of a multline quote that spans multiple lines. This can be used with large pieces of text and can indicate quotes from other sources.
+---
 
->Quote
->>Nested Quote
+> Quote
 
------
+> Multiline Quote: This is an example of a multline quote that spans multiple lines. This can be used with large pieces of text and can indicate quotes from other sources.
+
+> Quote
+>
+> > Nested Quote
+
+---
+
 [Link](/notes/posts/_markdown-cheatsheet)
 
 [Linking to Heading IDs](#custom-id)
@@ -99,8 +106,7 @@ Image:
 
 Linked Image:
 
-[![Linked Image](/notes/attachments/images/xavier.jpg)](/notes/posts/_image)
------
+## [![Linked Image](/notes/attachments/images/xavier.jpg)](/notes/posts/_image)
 
 Table:
 | Header Col A | Header Col B |
@@ -108,37 +114,36 @@ Table:
 | Row 1 A | Row 1 B |
 | Row 2 A | Row 2 B |
 
-
 Aligned Table:
-| Header Col A | Header Col B | Header Col C | 
-| :---        |    :----:   |          ---: |
-| Row 1 A     | Row 1 B     | Row 1 C       |
-| Row 2 A     | Row 2 B     | Row 2 C       |
+| Header Col A | Header Col B | Header Col C |
+| :--- | :----: | ---: |
+| Row 1 A | Row 1 B | Row 1 C |
+| Row 2 A | Row 2 B | Row 2 C |
 
-
------
+---
 
 Horizontal Rules
-*****
 
------
+---
 
-_____
+---
 
-Horizontal Rule with Heading
------
+---
 
------
+## Horizontal Rule with Heading
+
+---
+
 Task List:
+
 - [x] Task List Item 1
 - [ ] Task List Item 2
 
 term
 : definition
 
-: definition with no term 
-
+: definition with no term
 
 Text with Footnote[^1]
 
-[^1]: Footnote Definition 
+[^1]: Footnote Definition
