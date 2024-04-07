@@ -23,24 +23,33 @@ LCM
 
 Let $x,y ∈ Z+$ with prime factorizations that can be expressed using a common set of primes:
 
-```
-x = P1^α1 * P2^α2 * P3^α3...+ Pr^αr
-y = P1^β1 + P2^β2 + P3^β3...+ Pr^βr
-```
 
-Then:
+<!-- x = P1^α1 * P2^α2 * P3^α3...+ Pr^αr -->
+$$ x = P_{1}^{α1} * P_{2}^{α2} * P_{3}^{α3}...+ P_{r}^{αr} $$
 
-```
-x divides y if and only if αi≤βi for all 1 <=i<=r
-GCD = P1^min(α1,β1) * P2^min(α2,β2) * P3^min(α3,β3)...+ Pr^min(αr,βr)
-LCM = P1^max(α1,β1) * P2^max(α2,β2) * P3^max(α3,β3)...+ Pr^max(αr,βr)
-```
+<!-- y = P1^β1 + P2^β2 + P3^β3...+ Pr^βr -->
+$$ y = P_{1}^{β1} + P_{2}^{β2} + P_{3}^{β3}...+ P_{r}^{βr} $$
 
+
+Then $x$ divides $y$ if and only if $αi≤βi$ for all $1<=i<=r$
+
+<!-- GCD = P1^min(α1,β1) * P2^min(α2,β2) * P3^min(α3,β3)...+ Pr^min(αr,βr) -->
+$$ GCD = P_{1}^{min(α1,β1)} * P_{2}^{min(α2,β2)} * P_{3}^{min(α3,β3)}...+ P_{r}^{min(αr,βr)}$$
+
+<!-- LCM = P1^max(α1,β1) * P2^max(α2,β2) * P3^max(α3,β3)...+ Pr^max(αr,βr) -->
+$$ LCM = P_{1}^{max(α1,β1)} * P_{2}^{max(α2,β2)} * P_{3}^{max(α3,β3)}...+ P_{r}^{max(αr,βr)}$$
+
+---
 #### Example:
 
-```
-8 = 2^3 * 3^0
-6 = 2^1 * 3^1
-GCD(8,6) = 2^min(3,1) * 3^min(0,1) = 2^1 * 3^0 = 2
-LCM(8,6) = 2^max(3,1) * 3^max(0,1) = 2^3 * 3^1 = 24
-```
+
+$8 = 2^3 * 3^0$
+
+$6 = 2^1 * 3^1$
+
+<!--  GCD(8,6) = 2^min(3,1) * 3^min(0,1) = 2^1 * 3^0 = 2 -->
+$ GCD(8,6) = 2^{min(3,1)} * 3^{min(0,1)} = 2^1 * 3^0 = 2$
+
+<!--  LCM(8,6) = 2^max(3,1) * 3^max(0,1) = 2^3 * 3^1 = 24 -->
+$ LCM(8,6) = 2^{max(3,1)} * 3^{max(0,1)} = 2^3 * 3^1 = 24 $
+
