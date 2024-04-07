@@ -92,6 +92,6 @@ Let π(x) be the number of prime numbers from range 2 to x. Then:
 
 ![Prime Number Theorem](/notes/attachments/images/prime-number-theorem.png)
 
-[See Prime Number Approximation:](/notes/posts/Prime-And-Composite-Numbers)
+[See Prime Number Approximation:](/notes/posts/prime-and-composite-numbers)
 
 ![Prime Numbers](/notes/attachments/images/prime-numbers.png)
