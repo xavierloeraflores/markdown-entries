@@ -2,6 +2,15 @@
 title: "Prime & Composite Numbers"
 date: 2023-11-20T08:54:34-08:00
 draft: false
+tags:
+  [
+    "Math",
+    "Number Theory",
+    "Prime Numbers",
+    "Composite Numbers",
+    "Euclid's Theorem",
+    "Prime Number Theorem",
+  ]
 ---
 
 #### Prime & Composite Relationship:

@@ -2,6 +2,15 @@
 title: "Recurrence Relations"
 date: 2023-11-20T11:09:14-08:00
 draft: false
+tags:
+  [
+    "Math",
+    "Recurrence Relations",
+    "Sequences",
+    "Arithmetic Sequences",
+    "Fibonacci Sequence",
+    "Number Theory",
+  ]
 ---
 
 ## Recurrence Relations Definition

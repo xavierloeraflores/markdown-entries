@@ -2,6 +2,7 @@
 title: "Division Algorithm"
 date: 2023-11-17T13:41:31-08:00
 draft: false
+tags: ["Math", "Number Theory", "Division", "Algorithms"]
 ---
 
 ## Integer Division

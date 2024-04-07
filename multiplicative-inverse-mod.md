@@ -2,6 +2,7 @@
 title: "Multiplicative Inverse Mod"
 date: 2023-11-29T18:45:42-08:00
 draft: false
+tags: ["Math", "Modular Arithmetic", "Number Theory", Modulo"]
 ---
 
 Multiplicative Inverse Modulo
