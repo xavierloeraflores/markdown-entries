@@ -69,7 +69,7 @@ End-for
 Return( "Prime" )
 ```
 
-However, we can make our algorithm slightly better by instead searching for all values from 2 to √n since its been proven that composite numbers must have a prime factor equal to or less that √n. See [Prime Composite Numbers: Trial Division Theorem](/notes/posts/prime-composite-numbers/#trial-division-theorem)
+However, we can make our algorithm slightly better by instead searching for all values from 2 to √n since its been proven that composite numbers must have a prime factor equal to or less that √n. See [Prime Composite Numbers: Trial Division Theorem](/notes/posts/prime-composite-numbers)
 
 Improved Brute Force Algorithm:
 
@@ -92,6 +92,6 @@ Let π(x) be the number of prime numbers from range 2 to x. Then:
 
 ![Prime Number Theorem](/notes/attachments/images/prime-number-theorem.png)
 
-[See Prime Number Approximation:](/notes/posts/prime-composite-numbers/#prime-number-total-approximation)
+[See Prime Number Approximation:](/notes/posts/prime-composite-numbers)
 
 ![Prime Numbers](/notes/attachments/images/prime-numbers.png)
