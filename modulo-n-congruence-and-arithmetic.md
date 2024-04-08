@@ -8,7 +8,7 @@ tags: ["Modulo", "Congruence", "Arithmetic", "Math", "Number Theory"]
 ## Congruence Modulo n
 
 Congruence Modulo N
-Let $n ∈ Z+ > 1$. Let $(x, y) ∈ Z$. Then **x is congruent to y modulo n** if $x \text{\text{\%}} n = y \text{\text{\%}} n$. This congruence is denoted as:
+Let $n ∈ Z+ > 1$. Let $(x, y) ∈ Z$. Then **x is congruent to y modulo n** if $x \text{\%} n = y \text{\%} n$. This congruence is denoted as:
 $$x≡y(mod n)$$
 
 #### Example:
