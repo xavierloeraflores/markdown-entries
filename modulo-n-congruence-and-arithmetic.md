@@ -61,12 +61,10 @@ Return p
 
 Let $n ∈ Z > 1$. Let $(x, y) ∈ Z$, then:
 
-$$
-[x\text{\text{\%}}n + y\text{\text{\%}}n]\text{\text{\%}}n = [x+y]\text{\text{\%}}n
-$$
-$$
-[x\text{\text{\%}}n * y\text{\text{\%}}n]\text{\text{\%}}n = [x*y]\text{\text{\%}}n
-$$
+<!-- [x%n + y%n]%n = [x+y]%n -->
+$$[x\text{\%}n + y\text{\%}n]\text{\%}n = [x+y]\text{\%}n$$
+<!-- [x%n * y%n]%n = [x*y]%n -->
+$$[x\text{\%}n * y\text{\%}n]\text{\%}n = [x*y]\text{\%}n$$
 
 #### Example:
 
