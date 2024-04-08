@@ -2,6 +2,7 @@
 title: "Modular Exponentiation"
 date: 2023-11-29T19:26:13-08:00
 draft: false
+tags: ["Math", "Modular Arithmetic", "Number Theory", "Modulo", "Exponents"]
 ---
 
 You can use modular exponentiation to calculate the remainder of a number raised to a power.

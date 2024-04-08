@@ -2,6 +2,7 @@
 title: "Big O, Omega, & Theta"
 date: 2023-11-17T11:16:51-08:00
 draft: false
+tags: ["Computer Science", "Algorithms", "Big O", "Omega", "Theta"]
 ---
 
 ## Big O
