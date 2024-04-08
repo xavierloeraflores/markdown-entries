@@ -1,7 +1,7 @@
 ---
 title: "Greatest Common Divisor & Least Common Multiple"
 date: 2023-11-24T19:51:39-08:00
-draft: true
+draft: false
 ---
 
 ## Greatest Common Divisor
