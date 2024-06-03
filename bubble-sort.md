@@ -2,8 +2,7 @@
 title: "Bubble Sort"
 date: 2024-06-01T00:00:00-08:00
 draft: false
-tags:
-  ["Computer Science", ""Algorithms", "Sorting", "Bubble Sort"]
+tags: ["Computer Science", "Algorithms", "Sorting", "Bubble Sort"]
 ---
 
 ## Bubble Sort
