@@ -2,7 +2,15 @@
 title: "Merge Sort"
 date: 2024-06-01T00:00:00-08:00
 draft: false
-tags: ["Computer Science", "Algorithms", "Sorting", "Merge Sort"]
+tags:
+    [
+        "Computer Science",
+        "Algorithms",
+        "Sorting",
+        "Merge Sort",
+        "Stable Sorting Algorithms",
+        "Sorting Algorithms",
+    ]
 ---
 
 ## Merge Sort
@@ -174,3 +182,7 @@ function Merge(arrLeft: number[], arrRight: number[]): number[] {
         .concat(arrRight.slice(rightIndex));
 }
 ```
+
+## Related Posts
+
+-   [Stable Sorting Algorithms](/notes/posts/stable-sorting-algorithms)

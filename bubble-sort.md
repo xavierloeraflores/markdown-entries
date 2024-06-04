@@ -2,7 +2,15 @@
 title: "Bubble Sort"
 date: 2024-06-01T00:00:00-08:00
 draft: false
-tags: ["Computer Science", "Algorithms", "Sorting", "Bubble Sort"]
+tags:
+    [
+        "Computer Science",
+        "Algorithms",
+        "Sorting",
+        "Bubble Sort",
+        "Stable Sorting Algorithms",
+        "Sorting Algorithms",
+    ]
 ---
 
 ## Bubble Sort
@@ -32,6 +40,7 @@ Features:
 -   Traverses from left to right swapping larger elements to the right
 -   Largest element is bubbled to the end of the list in each phase
 -   Process is repeated until the list has been sorted
+-   Stable Sorting Algorithm: Maintains the relative order of equal elements
 
 ## Pseudocode
 
@@ -89,3 +98,7 @@ const OptimizedBubbleSort = (arr: number[]): number[] => {
 const testArr = [5, 3, 8, 4, 2];
 console.log(OptimizedBubbleSort(testArr)); // [2, 3, 4, 5, 8]
 ```
+
+## Related Posts
+
+-   [Stable Sorting Algorithms](/notes/posts/stable-sorting-algorithms)
