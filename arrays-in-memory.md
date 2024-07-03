@@ -12,7 +12,6 @@ tags:
         "Lists",
         "Memory",
         "Python",
-        "RAM",
     ]
 ---
 
