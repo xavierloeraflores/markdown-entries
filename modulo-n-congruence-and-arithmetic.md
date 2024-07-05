@@ -3,6 +3,7 @@ title: "Modulo N Congruence & Arithmetic"
 date: 2023-11-24T07:40:29-08:00
 draft: false
 tags: ["Modulo", "Congruence", "Arithmetic", "Math", "Number Theory"]
+categories: ["Mathematics"]
 ---
 
 ## Congruence Modulo n

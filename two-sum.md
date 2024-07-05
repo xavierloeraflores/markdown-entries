@@ -11,6 +11,7 @@ tags:
         "Arrays",
         "Data Structures",
     ]
+categories: ["Computer Science"]
 ---
 
 ## Problem

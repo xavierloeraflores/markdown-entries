@@ -3,6 +3,7 @@ title: "Exponents Digits"
 date: 2023-11-28T19:56:47-08:00
 draft: false
 tags: ["Math", "Exponents"]
+categories: ["Mathematics"]
 ---
 
 ## Finding the ones digit of large exponents

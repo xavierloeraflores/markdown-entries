@@ -13,6 +13,7 @@ tags:
         "Memory",
         "Python",
     ]
+categories: ["Computer Science"]
 ---
 
 Arrays are a data structure used to store a collection of elements of the same type. They are stored in memory continuously. This means that all the elements of the array can be found sequentially in memory.

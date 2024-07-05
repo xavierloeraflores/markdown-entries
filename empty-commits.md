@@ -10,6 +10,7 @@ tags:
         "Command Line",
         "Commits"
     ]
+categories: ["Software Engineering"]
 ---
 
 ## Empty Commits

@@ -11,6 +11,7 @@ tags:
     "Euclid's Theorem",
     "Prime Number Theorem",
   ]
+categories: ["Mathematics"]
 ---
 
 #### Prime & Composite Relationship:

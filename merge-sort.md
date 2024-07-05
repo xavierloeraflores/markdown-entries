@@ -11,6 +11,7 @@ tags:
         "Stable Sorting Algorithms",
         "Sorting Algorithms",
     ]
+categories: ["Computer Science"]
 ---
 
 ## Merge Sort

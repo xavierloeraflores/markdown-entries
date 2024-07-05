@@ -11,6 +11,7 @@ tags:
     "Fibonacci Sequence",
     "Number Theory",
   ]
+categories: ["Mathematics"]
 ---
 
 ## Recurrence Relations Definition
