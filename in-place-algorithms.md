@@ -14,6 +14,7 @@ tags:
         "Out of Place Sorting",
         "Sorting Algorithms",
     ]
+categories: ["Computer Science"]
 ---
 
 ## In Place Algorithms

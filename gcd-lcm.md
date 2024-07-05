@@ -3,6 +3,7 @@ title: "Greatest Common Divisor & Least Common Multiple"
 date: 2023-11-24T19:51:39-08:00
 draft: false
 tags: ["Math", "Number Theory", "GCD", "LCM", "Prime Numbers"]
+categories: ["Mathematics"]
 ---
 
 ## Greatest Common Divisor

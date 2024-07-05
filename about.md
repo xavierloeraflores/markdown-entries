@@ -3,6 +3,7 @@ title: "About"
 date: 2023-11-16T04:06:52-08:00
 draft: false
 tags: ["Meta"]
+categories: ["Meta"]
 ---
 
 ## Notes Site

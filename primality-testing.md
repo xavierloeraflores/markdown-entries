@@ -13,6 +13,7 @@ tags:
     "Prime Number Theorem",
     "Prime Numbers",
   ]
+categories: ["Computer Science","Mathematics"]
 ---
 
 ## RSA Algorithm

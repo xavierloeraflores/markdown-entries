@@ -19,6 +19,7 @@ tags:
         "Selection Sort",
         "Heap Sort",
     ]
+categories: ["Computer Science"]
 ---
 
 ## Stable Sorting Algorithms

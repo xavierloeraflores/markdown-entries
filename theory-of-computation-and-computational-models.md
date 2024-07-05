@@ -15,6 +15,7 @@ tags:
     "Turing Machine",
     "Algorithms",
   ]
+categories: ["Computer Science"]
 ---
 
 When solving problems in computer science, it can help to abstract the problem to gain a better understanding of what we can possibly achieve. This can especially be seen when analyzing algorithms since we usually care more about how algorithms would perform on abstract computers (machines) rather than specific hardware.

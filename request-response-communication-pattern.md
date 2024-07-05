@@ -24,6 +24,7 @@ tags:
         "SQL",
         "Database Protocols",
     ]
+categories: ["Computer Science"]
 ---
 
 The request-response model is a communication pattern used in computing where a client sends a request to a server, and the server responds to the request. This model is used in various communication protocols and APIs to exchange data between clients and servers widely used in web development, networking, and distributed systems.

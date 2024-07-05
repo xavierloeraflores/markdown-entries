@@ -2,6 +2,7 @@
 title: "_Todo"
 date: 2023-11-25T14:15:48-08:00
 draft: true
+categories: ["Meta"]
 ---
 
 Euclidean Algorithm

@@ -10,6 +10,7 @@ tags:
     "Documentation",
     "REST",
   ]
+categories: ["Software Engineering"]
 ---
 
 # API Documentation

@@ -2,6 +2,7 @@
 title: "_HugoPost"
 date: 2023-11-17T10:56:18-08:00
 draft: true
+categories: ["Meta"]
 ---
 
 To create a new post using the hugo cli, you use the following command:

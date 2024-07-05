@@ -2,6 +2,7 @@
 title: "_Current Projects"
 date: 2023-12-04T07:05:06-08:00
 draft: true
+categories: ["Meta"]
 ---
 
 List of current projects I'm working on:
