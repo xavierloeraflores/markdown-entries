@@ -15,15 +15,15 @@ tags:
         "Natural Language Processing",
         "NLP",
         "FMs",
-        "Machine Learning".
+        "Machine Learning",
         "ML",
         "AI",
         "Computer Vision",
-        'GPAI',
-        'General Purpose AI',
-        'Generative Adversarial Networks',
-        'GANs',
-        "Narrow AI"
+        "GPAI",
+        "General Purpose AI",
+        "Generative Adversarial Networks",
+        "GANs",
+        "Narrow AI",
     ]
 ---
 
