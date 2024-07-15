@@ -25,6 +25,7 @@ tags:
         "GANs",
         "Narrow AI",
     ]
+categories: ["Artificial Intelligence"]
 ---
 
 **Foundation Models** (FMs) are large deep learning neural networks that are trained on large amounts of data. They are also know as "general purpose ai" or "GPAI" since they are designed to be general-purpose and serve as the starting point for future AI development.
