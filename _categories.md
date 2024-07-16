@@ -7,10 +7,11 @@ categories: ["Meta"]
 
 Categories
 
-- Artificial Intelligence
-- Business
-- Mathematics
-- Software Engineering
-- Computer Science
-- Finance
-- Meta
+-   Artificial Intelligence
+-   Business
+-   Entrepreneurship
+-   Mathematics
+-   Software Engineering
+-   Computer Science
+-   Finance
+-   Meta
