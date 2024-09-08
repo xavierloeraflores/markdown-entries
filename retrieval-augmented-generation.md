@@ -19,7 +19,7 @@ tags:
 categories: ["Artificial Intelligence"]
 ---
 
-Retrieval-Augmented Generation (RAG) is a process that optimizes the output of LLMs do that it utilizes and references a specific knowledge or domain base that may not have been included in the LLM's training data. RAG can be seen as a cost-efficient extension of the LLMs abilities using a an organizations knowledge base while improving the outputs so that it remains relevant, accurate, and useful in various contexts without needing to retrain the LLMs. RAG will redirect the LLM to retrieve information that has the pre-determined authority so that organizations can have greater control over the generative outputs and so that users may have greater insight into how responses were generated.
+Retrieval-Augmented Generation (RAG) is a process that optimizes the output of LLMs do that it utilizes and references a specific knowledge or domain base that may not have been included in the LLM's training data. RAG can be seen as a cost-efficient extension of the LLM's abilities using an organization's knowledge base while improving the outputs so that it remains relevant, accurate, and useful in various contexts without needing to retrain the LLMs. RAG will redirect the LLM to retrieve information that has the pre-determined authority so that organizations can have greater control over the generative outputs and so that users may have greater insight into how responses were generated.
 
 ## Disadvantaged of LLMs
 
