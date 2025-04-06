@@ -29,7 +29,7 @@ categories: ["Data Science"]
 6. **Data Mining** (Machine Learning)
 7. **Data Reporting & Visualization** (Representation & Communication)
 
-![Data Analytics Lifecycle](/notes/attachments/images/data-analytics-lifecycle.jpeg)
+![Data Analytics Lifecycle](/static/images/data-analytics-lifecycle.jpeg)
 
 
 #### Tools: 

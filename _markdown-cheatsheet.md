@@ -101,13 +101,13 @@ Automatic URL Link: https://www.google.com
 Disabled URL Link: `https://www.google.com`
 
 Image:
-![Image](/notes/attachments/images/xavier.jpg)
+![Image](/static/images/xavier.jpg)
 
 [Read More on Images](/notes/posts/_image)
 
 Linked Image:
 
-## [![Linked Image](/notes/attachments/images/xavier.jpg)](/notes/posts/_image)
+## [![Linked Image](/static/images/xavier.jpg)](/notes/posts/_image)
 
 Table:
 | Header Col A | Header Col B |

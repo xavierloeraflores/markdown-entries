@@ -25,7 +25,7 @@ The data analytics lifecycle consist of the entire process from understanding th
 6. **Data Mining** (Machine Learning)
 7. **Data Reporting & Visualization** (Representation & Communication)
 
-![Data Analytics Lifecycle](/notes/attachments/images/data-analytics-lifecycle.jpeg)
+![Data Analytics Lifecycle](/static/images/data-analytics-lifecycle.jpeg)
 
 Deeper dive into the phases:
 [Data Analytics Lifecycle Phases](/notes/posts/data-analytics-lifecycle-phases)
@@ -37,7 +37,7 @@ The previous lifecycle is not the only way to represent the lifecycle. There are
 
 Google's Data Analysis Phases: 
 
-![Google Data Analytics Lifecycle](/notes/attachments/images/data-analytics-phases.png)
+![Google Data Analytics Lifecycle](/static/images/data-analytics-phases.png)
 
 This alternative view from the Google Data Analytics course features a similar structure with some minor differences. They can be mapped to our life cycle as follows:
 

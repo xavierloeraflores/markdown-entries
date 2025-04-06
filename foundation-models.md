@@ -54,7 +54,7 @@ The following are common use cases for foundation models in AI application devel
 
 The following is an example of a supply chain for foundation models:
 
-![Foundation Model Supply Chain](/notes/attachments/images/foundation-model-supply-chain.png)
+![Foundation Model Supply Chain](/static/images/foundation-model-supply-chain.png)
 
 _(Source: Ada Lovelace Institute)_
 

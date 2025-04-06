@@ -25,7 +25,7 @@ Data analysts solve various problems for businesses of different types depending
 - Prescriptive Analytics
 
 
-![Types of Analytics Graph](/notes/attachments/images/types-of-analytics.png)
+![Types of Analytics Graph](/static/images/types-of-analytics.png)
 
 Generally speaking, it is harder to gain insights on future and it is also harder to understand how or why those events would happen. For that reason, the types of analytics are ordered from the easiest to the hardest based on the type of insights the analysis type is trying to find. 
 ---
