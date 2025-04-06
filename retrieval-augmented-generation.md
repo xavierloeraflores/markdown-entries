@@ -64,7 +64,7 @@ It is important that organizations continue to update and maintain their externa
 
 ## Conceptual Diagram
 
-![AWS RAG LLM Diagram](/notes/attachments/images/aws-rag-llm-diagram.jpg)
+![AWS RAG LLM Diagram](/static/images/aws-rag-llm-diagram.jpg)
 _Source: [AWS](https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg)_
 
 This is an example conceptual diagram that highlights a potential workflow for using RAG with LLMs. It is not the only way to implement RAG; another example implementation may instead send a request to a backend service which then makes a request to a LLM endpoint before the user receives any response.

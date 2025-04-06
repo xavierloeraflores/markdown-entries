@@ -67,4 +67,4 @@ Therefore, there are infinitely many primes.
 
 The number of primes less than or equal to $x$ is approximately $x/ln(x)$.
 
-![Prime Numbers](/notes/attachments/images/prime-numbers.png)
+![Prime Numbers](/static/images/prime-numbers.png)

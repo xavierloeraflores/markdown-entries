@@ -53,7 +53,7 @@ The following steps are involved in the request-response model pattern:
 - Client parses the response
 - Client processes the response
 
-![Request Response Model](/notes/attachments/images/request-response.png)
+![Request Response Model](/static/images/request-response.png)
 
 The diagram above shows the request-response model where the client sends a request to the server, and the server responds to the request. The client and server communicate over a network using a communication protocol such as HTTP, TCP, or RPC. 
 

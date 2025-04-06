@@ -18,7 +18,7 @@ This will be a deeper dive into the different phases of the data analytics lifec
 <!-- [Data Analytics Lifecycle Overview](/data-analytics-lifecycle-overview.md) -->
 
 ## Stages of the Data Analytics Lifecycle
-![Data Analytics Lifecycle](/notes/attachments/images/data-analytics-lifecycle.jpeg)
+![Data Analytics Lifecycle](/static/images/data-analytics-lifecycle.jpeg)
 1. **Business Understanding** (Discovery)
 2. **Data Acquisition** (Collection)
 3. **Data Cleaning** (Preparation)

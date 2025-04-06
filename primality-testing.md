@@ -102,8 +102,8 @@ Return( "Prime" )
 
 Let π(x) be the number of prime numbers from range 2 to x. Then:
 
-![Prime Number Theorem](/notes/attachments/images/prime-number-theorem.png)
+![Prime Number Theorem](/static/images/prime-number-theorem.png)
 
 [See Prime Number Approximation:](/notes/posts/prime-and-composite-numbers)
 
-![Prime Numbers](/notes/attachments/images/prime-numbers.png)
+![Prime Numbers](/static/images/prime-numbers.png)

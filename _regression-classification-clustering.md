@@ -17,13 +17,13 @@ categories: ["Meta"]
 ---
 
 ## Regression
-![Regression](/notes/attachments/images/regression.png)
+![Regression](/static/images/regression.png)
 
 ## Classification
-![Classification](/notes/attachments/images/classification.png)
+![Classification](/static/images/classification.png)
 
 ## Clustering
-![Clustering](/notes/attachments/images/clustering.png)
+![Clustering](/static/images/clustering.png)
 
 
 
