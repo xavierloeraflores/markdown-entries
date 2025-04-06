@@ -11,7 +11,7 @@ categories: ["Meta"]
 Simple collection of notes written in Markdown and built with Hugo.
 
 - Visit the live deployment here:
-  [Notes Site](https://xavierloeraflores.github.io/notes/)
+  [Notes Site](https://notes.loeraflores.com)
 
 - Visit the source repository here: [Notes Repo](https://github.com/xavierloeraflores/notes)
 
