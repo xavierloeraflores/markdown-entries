@@ -102,4 +102,4 @@ console.log(OptimizedBubbleSort(testArr)); // [2, 3, 4, 5, 8]
 
 ## Related Posts
 
--   [Stable Sorting Algorithms](/notes/posts/stable-sorting-algorithms)
+-   [Stable Sorting Algorithms](/posts/stable-sorting-algorithms)

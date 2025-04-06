@@ -14,7 +14,7 @@ categories: ["Data Science"]
 
 This will be a deeper dive into the different phases of the data analytics lifecycle and serves as a continuation for the Data Analytics Lifecycle Overview. 
 
-[Data Analytics Lifecycle Overview](/notes/posts/data-analytics-lifecycle-overview)
+[Data Analytics Lifecycle Overview](/posts/data-analytics-lifecycle-overview)
 <!-- [Data Analytics Lifecycle Overview](/data-analytics-lifecycle-overview.md) -->
 
 ## Stages of the Data Analytics Lifecycle

@@ -86,5 +86,5 @@ Out of Place Algorithms:
 
 ## Related Posts
 
--   [Merge Sort](/notes/posts/merge-sort)
--   [Bubble Sort](/notes/posts/bubble-sort)
+-   [Merge Sort](/posts/merge-sort)
+-   [Bubble Sort](/posts/bubble-sort)

@@ -56,5 +56,5 @@ It is possible to convert an unstable sorting algorithms into a stable sorting a
 
 ## Related Posts
 
--   [Merge Sort](/notes/posts/merge-sort)
--   [Bubble Sort](/notes/posts/bubble-sort)
+-   [Merge Sort](/posts/merge-sort)
+-   [Bubble Sort](/posts/bubble-sort)

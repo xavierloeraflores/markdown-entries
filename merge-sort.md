@@ -186,4 +186,4 @@ function Merge(arrLeft: number[], arrRight: number[]): number[] {
 
 ## Related Posts
 
--   [Stable Sorting Algorithms](/notes/posts/stable-sorting-algorithms)
+-   [Stable Sorting Algorithms](/posts/stable-sorting-algorithms)

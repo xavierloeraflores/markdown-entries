@@ -92,7 +92,7 @@ c := a + b
 
 ---
 
-[Link](/notes/posts/_markdown-cheatsheet)
+[Link](/posts/_markdown-cheatsheet)
 
 [Linking to Heading IDs](#custom-id)
 
@@ -103,11 +103,11 @@ Disabled URL Link: `https://www.google.com`
 Image:
 ![Image](/static/images/xavier.jpg)
 
-[Read More on Images](/notes/posts/_image)
+[Read More on Images](/posts/_image)
 
 Linked Image:
 
-## [![Linked Image](/static/images/xavier.jpg)](/notes/posts/_image)
+## [![Linked Image](/static/images/xavier.jpg)](/posts/_image)
 
 Table:
 | Header Col A | Header Col B |

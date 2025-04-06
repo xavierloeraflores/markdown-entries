@@ -28,7 +28,7 @@ The data analytics lifecycle consist of the entire process from understanding th
 ![Data Analytics Lifecycle](/static/images/data-analytics-lifecycle.jpeg)
 
 Deeper dive into the phases:
-[Data Analytics Lifecycle Phases](/notes/posts/data-analytics-lifecycle-phases)
+[Data Analytics Lifecycle Phases](/posts/data-analytics-lifecycle-phases)
 <!-- [Data Analytics Lifecycle Phases](/data-analytics-lifecycle-phases.md) -->
 
 
@@ -58,5 +58,5 @@ Source: [What is Data Science?](https://www.youtube.com/watch?v=RBSUwFGa6Fk)
 
 ## Resources
 Deeper dive into the phases:
-[Data Analytics Lifecycle Phases](/notes/posts/data-analytics-lifecycle-phases)
+[Data Analytics Lifecycle Phases](/posts/data-analytics-lifecycle-phases)
 <!-- [Data Analytics Lifecycle Phases](/data-analytics-lifecycle-phases.md) -->
